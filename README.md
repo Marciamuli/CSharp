@@ -3,6 +3,12 @@
 Todos os materiais desenvolvidos para o Curso de **Desenvolvimento de Sistemas** vão aqui.
 
 ![Lógica](https://img.shields.io/badge/VisualStudio%20-2015-green)
+![CSharp](https://img.shields.io/badge/C-%23-blue)
+![Nível](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-green)
+
+## Introdução
+
+![image](https://i.udemycdn.com/course/750x422/1581488_e3e1_2.jpg)
 
 CSharp
 Todos os materiais desenvolvidos para o Curso de Desenvolvimento de Sistemas vão aqui.
