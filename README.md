@@ -18,7 +18,7 @@ VisualStudio_2015 CSharp Nível
 Introdução
 image
 
-C# (CSharp)** é uma linguagem de programação orientada a objetos criada pela Microsoft, faz parte da sua plataforma .Net. A companhia baseou C# na linguagem C++ e Java.
+**C#** (CSharp)** é uma linguagem de programação orientada a objetos criada pela Microsoft, faz parte da sua plataforma .Net. A companhia baseou C# na linguagem C++ e Java.
 
 O C# (pronuncia-se "C Sharp") é uma linguagem de programação simples, moderna, orientada a objeto e fortemente tipada. O C# tem suas raízes na família de linguagens C e os programadores em C, C++, Java e JavaScript a reconhecerão imediatamente. Este tour dá uma visão geral dos principais componentes da linguagem. Se quiser explorar a linguagem por meio de exemplos interativos, experimente nossos tutoriais de Introdução à linguagem C#.
 
